@@ -1,0 +1,98 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "233154",
+  "templateId": 889,
+  "owner": "chenyutao0417",
+  "slug": "kit1-doc-shortfilm",
+  "website": "https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm",
+  "version": "1.0.0",
+  "technical": {
+    "en": [
+      "Declared runtime profile: html-canvas/1.",
+      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
+      "The declared timeline has a fixed duration; new content fits its existing scene order and timing."
+    ],
+    "zh": [
+      "声明的运行配置：html-canvas/1。",
+      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
+      "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
+    ]
+  },
+  "checkedAt": "2026-10-21",
+  "availability": "download-available",
+  "title": {
+    "en": "Kit 1 · Documentary Explainer",
+    "zh": "Kit 1 · 人文纪录片知识短片"
+  },
+  "summary": {
+    "en": "A documentary-style short told through visuals and bilingual captions, without narration. Replace the key words and captions. Landscape 1920×1080 at 30fps; the 20-second example includes generated music and sound effects.",
+    "zh": "无口播、画面+字幕叙事的人文纪录片风知识短片模板：暗场开题、锚词砸出（缩放回弹+闪白+震屏）、结尾亮背景重定义。替换锚词与双语字幕即可制作新短片，1920×1080/30fps，样例 20 秒含程序化 BGM 与音效。"
+  },
+  "subtitle": {
+    "en": "Kit 1 · Documentary Explainer",
+    "zh": "Kit 1 · 人文纪录片知识短片"
+  },
+  "category": {
+    "en": "explainer",
+    "zh": "explainer"
+  },
+  "ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 20,
+  "demo": {
+    "en": "https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4",
+    "zh": "https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm?lang=zh",
+    "poster": "https://motiongit.com/media/covers/889/1.0.0-d8681251c776.jpg"
+  },
+  "materials": [
+    {
+      "en": "Your topic, script and facts to preserve.",
+      "zh": "本期主题、文稿与需要准确保留的信息。",
+      "required": true
+    },
+    {
+      "en": "A licensed music track or your preference for music in this production.",
+      "zh": "本期已授权配乐，或本期是否需要配乐的偏好。",
+      "required": false
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "Declared runtime profile: html-canvas/1. Check the downloaded package for exact tools and setup steps.",
+      "zh": "声明的运行配置：html-canvas/1。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "A documentary-style short told through visuals and bilingual captions, without narration. Replace the key words and captions. Landscape 1920×1080 at 30fps; the 20-second example includes generated music and sound effects."
+    ],
+    "zh": [
+      "拖延、选择、成长等话题的人文科普短片",
+      "金句/观点的气氛化呈现",
+      "片头或段落之间的情绪铺垫"
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1920 × 1080, 30 fps. The public demo is 20 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes."
+    ],
+    "zh": [
+      "已声明输出为 1920 × 1080，30 fps；公开样片 20 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
